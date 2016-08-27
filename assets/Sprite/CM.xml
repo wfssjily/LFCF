@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CM.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.226 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="CM_dead0000" x="0" y="903" width="172" height="190" pivotX="78.2" pivotY="204.4" frameX="-2" frameY="-48" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0001" x="385" y="866" width="180" height="201" frameX="-2" frameY="-37" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0002" x="385" y="659" width="184" height="207" frameX="-2" frameY="-31" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0003" x="198" y="659" width="187" height="208" frameX="0" frameY="-30" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0004" x="0" y="700" width="190" height="203" frameX="-2" frameY="-35" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0005" x="1059" y="766" width="192" height="195" frameX="-2" frameY="-43" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0006" x="1650" y="948" width="192" height="183" frameX="-2" frameY="-55" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0007" x="1175" y="1020" width="191" height="168" frameX="-2" frameY="-70" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0008" x="1445" y="1009" width="190" height="170" frameX="-2" frameY="-68" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0009" x="758" y="1003" width="190" height="172" frameX="-2" frameY="-66" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0010" x="983" y="961" width="192" height="173" frameX="-1" frameY="-65" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0011" x="565" y="952" width="193" height="175" frameX="0" frameY="-63" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0012" x="1842" y="948" width="194" height="180" frameX="0" frameY="-58" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0013" x="190" y="867" width="195" height="185" frameX="0" frameY="-53" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0014" x="1251" y="830" width="194" height="190" frameX="-2" frameY="-48" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0015" x="1753" y="753" width="194" height="195" frameX="-2" frameY="-43" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0016" x="864" y="630" width="195" height="200" frameX="-2" frameY="-38" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0017" x="1557" y="625" width="196" height="205" frameX="-2" frameY="-33" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0018" x="1161" y="556" width="197" height="210" frameX="-2" frameY="-28" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0019" x="1822" y="538" width="197" height="215" frameX="-2" frameY="-23" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0020" x="1823" y="318" width="198" height="220" frameX="-2" frameY="-18" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0021" x="1288" y="318" width="214" height="238" frameX="-2" frameY="0" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0022" x="0" y="480" width="198" height="220" frameX="-2" frameY="-18" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0023" x="1358" y="625" width="199" height="205" frameX="-2" frameY="-33" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0024" x="569" y="762" width="198" height="190" frameX="-2" frameY="-48" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0025" x="1445" y="830" width="205" height="179" frameX="-2" frameY="-59" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0026" x="767" y="830" width="216" height="173" frameX="-2" frameY="-69" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0027" x="311" y="476" width="260" height="183" frameX="-2" frameY="-77" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0028" x="875" y="477" width="286" height="153" frameX="-2" frameY="-105" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0029" x="571" y="621" width="293" height="141" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0030" x="571" y="477" width="304" height="144" frameX="-2" frameY="-116" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0031" x="0" y="319" width="311" height="161" frameX="-2" frameY="-116" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0032" x="311" y="319" width="316" height="157" frameX="-2" frameY="-115" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0033" x="1502" y="474" width="320" height="151" frameX="-2" frameY="-114" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0034" x="1502" y="318" width="321" height="156" frameX="-2" frameY="-115" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0035" x="0" y="0" width="323" height="160" frameX="-2" frameY="-116" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0036" x="323" y="0" width="322" height="160" frameX="-2" frameY="-116" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0037" x="968" y="0" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0038" x="1290" y="0" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0039" x="1612" y="0" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0040" x="645" y="159" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0041" x="967" y="159" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0042" x="1289" y="159" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0043" x="1611" y="159" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0044" x="0" y="160" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0045" x="322" y="160" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0046" x="644" y="318" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0047" x="966" y="318" width="322" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_dead0048" x="645" y="0" width="323" height="159" frameX="-2" frameY="-117" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_idle0000" x="172" y="1052" width="166" height="182" pivotX="76.5" pivotY="154.7" frameX="0" frameY="-5" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0001" x="504" y="1127" width="165" height="183" frameX="-1" frameY="-4" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0002" x="1842" y="1128" width="165" height="183" frameX="-1" frameY="-4" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0003" x="330" y="1249" width="164" height="183" frameX="-2" frameY="-4" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0004" x="669" y="1175" width="164" height="184" frameX="-2" frameY="-3" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0005" x="0" y="1275" width="164" height="183" frameX="-2" frameY="-3" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0006" x="494" y="1310" width="164" height="183" frameX="-3" frameY="-3" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0007" x="1366" y="1179" width="164" height="184" frameX="-3" frameY="-2" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0008" x="658" y="1359" width="163" height="184" frameX="-4" frameY="-2" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0009" x="1277" y="1363" width="163" height="184" frameX="-4" frameY="-2" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0010" x="1857" y="1494" width="162" height="185" frameX="-5" frameY="-1" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0011" x="997" y="1372" width="163" height="184" frameX="-5" frameY="-1" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0012" x="164" y="1418" width="163" height="184" frameX="-5" frameY="-1" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0013" x="1440" y="1497" width="162" height="185" frameX="-6" frameY="0" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0014" x="821" y="1500" width="162" height="185" frameX="-6" frameY="0" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0015" x="163" y="1602" width="161" height="185" frameX="-7" frameY="0" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0016" x="653" y="1543" width="162" height="185" frameX="-6" frameY="0" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0017" x="1160" y="1547" width="162" height="185" frameX="-6" frameY="0" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0018" x="327" y="1432" width="163" height="184" frameX="-5" frameY="-1" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0019" x="0" y="1458" width="163" height="184" frameX="-5" frameY="-1" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0020" x="983" y="1556" width="162" height="185" frameX="-5" frameY="-1" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0021" x="490" y="1493" width="163" height="184" frameX="-4" frameY="-2" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0022" x="1694" y="1494" width="163" height="184" frameX="-4" frameY="-2" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0023" x="1113" y="1188" width="164" height="184" frameX="-3" frameY="-2" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0024" x="1800" y="1311" width="164" height="183" frameX="-3" frameY="-3" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0025" x="1530" y="1314" width="164" height="183" frameX="-2" frameY="-3" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0026" x="166" y="1234" width="164" height="184" frameX="-2" frameY="-3" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0027" x="833" y="1317" width="164" height="183" frameX="-2" frameY="-4" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0028" x="1635" y="1131" width="165" height="183" frameX="-1" frameY="-4" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0029" x="948" y="1134" width="165" height="183" frameX="-1" frameY="-4" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0030" x="338" y="1067" width="166" height="182" frameX="0" frameY="-5" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_idle0031" x="0" y="1093" width="166" height="182" frameX="0" frameY="-5" frameWidth="168" frameHeight="187"/>
+	<SubTexture name="CM_damaged0000" x="0" y="903" width="172" height="190" pivotX="78.2" pivotY="204.4" frameX="-2" frameY="-48" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_damaged0001" x="385" y="866" width="180" height="201" frameX="-2" frameY="-37" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_damaged0002" x="385" y="659" width="184" height="207" frameX="-2" frameY="-31" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_damaged0003" x="385" y="659" width="184" height="207" frameX="-2" frameY="-31" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_damaged0004" x="385" y="866" width="180" height="201" frameX="-2" frameY="-37" frameWidth="325" frameHeight="277"/>
+	<SubTexture name="CM_damaged0005" x="0" y="903" width="172" height="190" frameX="-2" frameY="-48" frameWidth="325" frameHeight="277"/>
+</TextureAtlas>
